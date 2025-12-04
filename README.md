@@ -1,4 +1,8 @@
-# Proyecto Final - Algoritmos de Grafos y Compresión
+# Proyecto Final
+## Alumno Francisco Javier Rojas
+### Carnet: 202302368
+
+#### Enlace al repositorio: https://github.com/epxela/-AA-ProyectoFinal_2S2025_202302368
 
 ## Descripción
 
