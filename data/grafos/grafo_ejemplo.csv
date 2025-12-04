@@ -1,0 +1,8 @@
+origen,destino,peso
+A,B,4
+A,C,2
+B,C,5
+B,D,10
+C,D,3
+D,E,7
+C,E,8

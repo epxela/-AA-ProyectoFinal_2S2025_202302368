@@ -1,0 +1,8 @@
+# Dependencias del Proyecto Final - Algoritmos de Grafos
+
+# Visualización de grafos
+networkx>=3.0
+matplotlib>=3.7.0
+
+# Procesamiento numérico
+numpy>=1.24.0
